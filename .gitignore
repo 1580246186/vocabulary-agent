@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.claude/
+*.xlsx
+sample_vocabulary.docx
+output/
